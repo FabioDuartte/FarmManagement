@@ -5,10 +5,14 @@
 
 # Dependencies
 node_modules/
+client/node_modules/
+server/node_modules/
 
 # Build
 dist/
 build/
+client/dist/
+server/dist/
 
 # Logs
 *.log
