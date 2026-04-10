@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npm install && npm run build",
+  "buildCommand": "cd FazendaControl/client && npm install && npm run build",
   "outputDirectory": "FazendaControl/client/dist",
-  "installCommand": "npm install",
+  "installCommand": "cd FazendaControl/client && npm install",
   "framework": "vite"
 }
